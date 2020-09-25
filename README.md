@@ -7,5 +7,8 @@ Chat de real-time em node para testes e aprendizado em de backend em JavaScript
 * [LinkedIn]()
 * [Instagram]()
 ##### Comandos
-    $npm init
-    $npm start
+    $ npm init
+    $ npm install ejs
+    $ npm install express
+    $ npm install socket.io
+    $ node server.js

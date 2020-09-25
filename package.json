@@ -1,10 +1,11 @@
 {
-  "name": "chatFromNode",
+  "name": "chatfromnode",
   "version": "1.0.0",
-  "description": "",
+  "description": "Chat de real-time em node para testes e aprendizado em de backend em JavaScript\r ☺️ \r ### Social\r * [Facebook]()\r * [Whatsapp]()\r * [LinkedIn]()\r * [Instagram]()\r ##### Comandos\r     $npm init\r     $npm start",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,6 @@
     "ejs": "^2.7.4",
     "express": "^4.17.1",
     "socket.io": "^2.3.0"
-  }
+  },
+  "devDependencies": {}
 }
