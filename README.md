@@ -4,8 +4,8 @@ Chat de real-time em node para testes e aprendizado em de backend em JavaScript
 ### Social
 * [Facebook]()
 * [Whatsapp]()
-* [LinkedIn]()
-* [Instagram]()
+* [LinkedIn](https://www.linkedin.com/in/jefferson-costa-968310166/)
+* [Instagram](https://www.instagram.com/jeffitequila/)
 ##### Comandos
     $ npm init
     $ npm install ejs
