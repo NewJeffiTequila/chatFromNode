@@ -11,4 +11,4 @@ Chat de real-time em node para testes e aprendizado em de backend em JavaScript
     $ npm install ejs
     $ npm install express
     $ npm install socket.io
-    $ node server.js
+    $ npm start
