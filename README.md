@@ -2,6 +2,7 @@
 Chat de real-time em node para testes e aprendizado em de backend em JavaScript
 ☺️ 
 ### Social
+* [![N|Solid](https://www.pngitem.com/pimgs/m/242-2427082_transparent-telegram-icon-png-facebook-twitter-linkedin-instagram.png)](https://nodesource.com/products/nsolid)
 * [Facebook]()
 * [Whatsapp]()
 * [LinkedIn](https://www.linkedin.com/in/jefferson-costa-968310166/)
